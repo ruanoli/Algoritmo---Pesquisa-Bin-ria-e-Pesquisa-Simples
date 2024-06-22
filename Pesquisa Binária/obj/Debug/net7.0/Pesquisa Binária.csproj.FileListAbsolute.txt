@@ -1,0 +1,15 @@
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\bin\Debug\net7.0\Pesquisa Binária.exe
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\bin\Debug\net7.0\Pesquisa Binária.deps.json
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\bin\Debug\net7.0\Pesquisa Binária.runtimeconfig.json
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\bin\Debug\net7.0\Pesquisa Binária.dll
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\bin\Debug\net7.0\Pesquisa Binária.pdb
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.csproj.AssemblyReference.cache
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.AssemblyInfoInputs.cache
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.AssemblyInfo.cs
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.csproj.CoreCompileInputs.cache
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.dll
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\refint\Pesquisa Binária.dll
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.pdb
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\Pesquisa Binária.genruntimeconfig.cache
+C:\Users\ruan1\OneDrive\Área de Trabalho\Estudo de Algoritmos\Pesquisa Binária\Pesquisa Binária\obj\Debug\net7.0\ref\Pesquisa Binária.dll
